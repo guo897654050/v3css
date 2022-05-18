@@ -14,6 +14,12 @@
         <li>
           <router-link to="/moon">moon</router-link>
         </li>
+        <li>
+          <router-link to="/ice">ice-cream</router-link>
+        </li>
+        <li>
+          <router-link to="/newton">newton</router-link>
+        </li>
       </ul>
     </div>
   </div>

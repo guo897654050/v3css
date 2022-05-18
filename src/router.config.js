@@ -17,6 +17,15 @@ const routes = [
     path: '/moon',
     component: () => import('./components/moon.vue')
   },
+  {
+    path: '/ice',
+    component: () => import('./components/iceCream.vue')
+  },
+  {
+    path: '/newton',
+    component: () => import('./components/newton.vue')
+  },
+
 ]
 
 
