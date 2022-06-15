@@ -25,6 +25,14 @@ const routes = [
     path: '/newton',
     component: () => import('./components/newton.vue')
   },
+  {
+    path: '/radar',
+    component: () => import('./components/radar.vue')
+  },
+  {
+    path: '/test',
+    component: () => import('./components/test.vue')
+  },
 
 ]
 

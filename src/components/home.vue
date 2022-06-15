@@ -20,6 +20,9 @@
         <li>
           <router-link to="/newton">newton</router-link>
         </li>
+        <li>
+          <router-link to="/radar">radar</router-link>
+        </li>
       </ul>
     </div>
   </div>
@@ -27,7 +30,6 @@
 </template>
 
 <script setup>
-
 </script>
 
 <style lang="less" scoped>
