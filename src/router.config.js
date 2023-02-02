@@ -33,6 +33,14 @@ const routes = [
     path: '/test',
     component: () => import('./components/test.vue')
   },
+  {
+    path: '/waterfall',
+    component: () => import('./components/waterfall.vue')
+  },
+  {
+    path: '/overflow',
+    component: () => import('./components/overflow.vue')
+  }
 
 ]
 
